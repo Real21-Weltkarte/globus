@@ -1,0 +1,20 @@
+[
+  {
+    "lat": 52.52,
+    "lng": 13.405,
+    "title": "Berlin",
+    "text": "Hauptstadt von Deutschland."
+  },
+  {
+    "lat": 40.7128,
+    "lng": -74.006,
+    "title": "New York City",
+    "text": "Die größte Stadt der USA."
+  },
+  {
+    "lat": -33.8688,
+    "lng": 151.2093,
+    "title": "Sydney",
+    "text": "Berühmte Stadt in Australien."
+  }
+]
